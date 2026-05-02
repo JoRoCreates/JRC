@@ -1,0 +1,17 @@
+body{
+    margin: 0; 
+    height: 100vh;
+}
+h1 {color:rgba(30, 51, 80);
+font-family: 'Caprasimo', cursive;}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items:  top;
+  height: 100%;
+background-color: rgba(195, 218, 251);
+}
+.header {
+    margin: 20px;
+}
