@@ -47,7 +47,7 @@ function createCard(product) {
 
       <h2>${product.title}</h2>
 
-      <p>${product.description}</p>s
+      <p>${product.description}</p>
 
     </div>
   `;
